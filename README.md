@@ -82,7 +82,7 @@ Esta página se irá actualizando con los distintos proyectos que se van realiza
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | Arquitectura de Computadores         | [Práctica 1](https://github.com/100472175/AC_Lab1)                                                                      |
 | Heurística y Optimización            | <ul><li> [Práctica 1](https://github.com/100472175/HEU-LAB01) <li> [Práctica 2](https://github.com/100472175/HEU-LAB02) |
-| Redes de Ordenadores                 | Práctica 1                                                                                                              |
+| Redes de Ordenadores                 | [Práctica 1 (ldcas-uc3m/CN-Lr)](https://github.com/ldcas-uc3m/CN-Lr)                                                    |
 | Criptografía y Seguridad Informática | [Práctica 1](https://github.com/100472175/criptografia-lab)                                                             |
 
 ### Segundo cuatrimestre
